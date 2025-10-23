@@ -78,8 +78,8 @@
   </a>
 
 </div>
-
-💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
-⭐ If you believe in building with passion, leave a ⭐!
+<br/><br/>
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⭐ If you believe in building with passion, leave a ⭐!
 
 
