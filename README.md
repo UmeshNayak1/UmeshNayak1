@@ -77,6 +77,4 @@
 💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
 ⭐ If you believe in building with passion, leave a ⭐!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="animated wave" width="100%" />
-</p>
+
