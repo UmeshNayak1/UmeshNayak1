@@ -45,8 +45,18 @@
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
 <p align="center">
-  <i>Feel free to reach out! I love collaborating on innovative projects or discussing tech ideas. </i>
+  <i>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
+    <span style="font-size: 18px; font-weight: 500; color: #00bfff; font-family: 'Poppins', sans-serif;">
+      Feel free to reach out — I love collaborating on innovative projects 🚀 and exchanging tech ideas 💡
+    </span>
+  </i>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing SVG" />
+</p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
