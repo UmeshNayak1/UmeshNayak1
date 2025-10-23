@@ -32,9 +32,9 @@
 ---
 
 ### 🚀 Projects
-- 🔹 **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
-- 🔹 **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
-- 🔹 **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
+-  **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
+-  **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
+-  **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
 
 📎 *Explore more on my portfolio:* [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
@@ -74,5 +74,5 @@
 ⭐ If you like my work, don’t forget to star my repositories!  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UmeshNayak1/UmeshNayak1/main/assets/animated-wave.svg" alt="wave" />
+  <img src="https://raw.githubusercontent.com/UmeshNayak1/UmeshNayak1/main/assets/animated-wave.gif" alt="wave" width="100%" />
 </p>
