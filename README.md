@@ -88,8 +88,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
   </a>
 
-</div>
-<br/><br/>
+
+---
+
+
  <h3 align="center">"Great software isn’t just built — it’s carefully crafted, tested, and loved into existence."</h3>
  <h3 align="center">⭐ If you believe in building with passion, leave a ⭐!<h3/>
 
