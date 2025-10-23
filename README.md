@@ -15,7 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://umeshnayak1.github.io/my-portfolio/)  
 - ⚡ Fun fact **I am funny😅**
-  
+  <br/>
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umeshlnayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
@@ -25,8 +26,9 @@
 </a>
 </p>
 </p>
-
-
+<br/>
+---
+<br/>
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
@@ -42,6 +44,9 @@
 
 <br/>
 
+---
+
+
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
 <h3 align="center">
@@ -53,11 +58,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing Animation" />
 </p>
 
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+---
 
-  
 <h4 align="left">GitHub Stats:</h4>
 <div align="left">
 
@@ -79,7 +83,7 @@
 
 </div>
 <br/><br/>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  <br/>
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<h2 style="color:green";>"Great software isn’t just built — it’s carefully crafted, tested, and loved into existence."</h2>  <br/>
  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⭐ If you believe in building with passion, leave a ⭐!
 
 
