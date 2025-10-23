@@ -83,7 +83,7 @@
 
 </div>
 <br/><br/>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;**"Great software isn’t just built — it’s carefully crafted, tested, and loved into existence."**  <br/>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⭐ If you believe in building with passion, leave a ⭐!
+ <h3 align="center">"Great software isn’t just built — it’s carefully crafted, tested, and loved into existence."</h3>  <br/>
+ <h3 align="center">⭐ If you believe in building with passion, leave a ⭐!<h3/>
 
 
