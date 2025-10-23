@@ -79,7 +79,7 @@
 
 </div>
 <br/><br/>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  <br/>
  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⭐ If you believe in building with passion, leave a ⭐!
 
 
