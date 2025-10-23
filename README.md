@@ -44,18 +44,22 @@
 
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
-<p align="center">
-  <i>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />
-    <span style="font-size: 18px; font-weight: 500; color: #00bfff; font-family: 'Poppins', sans-serif;">
-      Feel free to reach out — I love collaborating on innovative projects 🚀 and exchanging tech ideas 💡
-    </span>
-  </i>
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #00bfff; font-size: 18px;">
+  <i>💬 Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing SVG" />
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 17px; color: #66ccff; animation: pulse 2s infinite;">
+  <b>Let's build something amazing together! 💻</b>
 </p>
+
+<style>
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+</style>
+
 
 
 <h3 align="left">Support:</h3>
