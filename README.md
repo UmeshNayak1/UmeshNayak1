@@ -1,6 +1,6 @@
 <!-- 🌟 Umesh Nayak | GitHub Profile README -->
 
-![Header](https://github.com/UmeshNayak1/UmeshNayak1/blob/main/assets/banner.png)
+![Header](Banner.01.png)
 
 <h1 align="center">
   Hi 👋, I'm <span style="background: linear-gradient(90deg,#00bcd4,#ff4081);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">Umesh Nayak</span>
