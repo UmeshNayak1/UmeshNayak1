@@ -40,27 +40,20 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
 </p>
 
----
+<br/>
 
-### 🚀 Projects
--  **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
--  **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
--  **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
-
-📎 *Explore more on my portfolio:* [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
-
-
+📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
 <p align="center">
-  <i>Feel free to reach out! I love collaborating on innovative projects or discussing tech ideas. 🚀</i>
+  <i>Feel free to reach out! I love collaborating on innovative projects or discussing tech ideas. </i>
 </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-### 📊 GitHub Stats  
-
-<div align="center">
+  
+<h4 align="left">GitHub Stats:</h4>
+<div align="left">
 
   <!-- Main Stats -->
   <a href="https://github.com/UmeshNayak1">
