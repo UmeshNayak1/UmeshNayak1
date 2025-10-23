@@ -46,7 +46,9 @@
 
 <p align="center">
   <i>
-    💬 <span style="color:#58a6ff;">Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡</span>
+    💬 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent; font-weight: 600;">
+      Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡
+    </span>
   </i>
 </p>
 
