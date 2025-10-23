@@ -14,7 +14,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://umeshnayak1.github.io/my-portfolio/)  
-- ⚡ Fun fact: **I love solving challenging problems & creating interactive web apps!**
+- ⚡ Fun fact **I am funny😅**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -74,9 +74,9 @@
 
 
 
-💬 *“Code is like humor — when you have to explain it, it’s bad.”*  
-⭐ If you like my work, don’t forget to star my repositories!  
+💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
+⭐ If you believe in building with passion, leave a ⭐!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UmeshNayak1/UmeshNayak1/main/assets/animated-wave.gif" alt="wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="animated wave" width="100%" />
 </p>
