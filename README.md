@@ -9,7 +9,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UmeshNayak1&label=Profile%20views&color=0e75b6&style=flat" alt="Umesh Nayak" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=UmeshNayak1&label=Profile%20views&color=0e75b6&style=flat" alt="Umesh Nayak" /> 
+</p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://umeshnayak1.github.io/my-portfolio/)  
 - ⚡ Fun fact: **I love solving challenging problems & creating interactive web apps!**  
@@ -32,9 +34,9 @@
 ---
 
 ### 🚀 Projects
--  **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
--  **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
--  **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
+- 🔹 **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
+- 🔹 **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
+- 🔹 **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
 
 📎 *Explore more on my portfolio:* [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
@@ -45,6 +47,27 @@
   <a href="https://linkedin.com/in/umeshlnayak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:umeshlnayak9591@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/UmeshNayak1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/umeshnayak_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@umeshnayak" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+### 📬 Contact Me
+<p align="center">
+  <a href="mailto:umeshlnayak9591@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/umeshlnayak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/UmeshNayak1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out! I love collaborating on innovative projects or discussing tech ideas. 🚀</i>
 </p>
 
 ---
