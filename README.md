@@ -52,27 +52,30 @@
   <i>Feel free to reach out! I love collaborating on innovative projects or discussing tech ideas. 🚀</i>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmeshNayak1&theme=tokyonight&hide_border=true" height="160" />
-</p>
+### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<div align="center">
 
-
-
-### ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/umeshnayak" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  <!-- Main Stats -->
+  <a href="https://github.com/UmeshNayak1">
+    <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   </a>
-</p>
+  
+  <!-- Streak Stats -->
+  <a href="https://github.com/UmeshNayak1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmeshNayak1&theme=tokyonight&hide_border=true" height="170" />
+  </a>
 
+  <!-- Top Languages -->
+  <br/>
+  <a href="https://github.com/UmeshNayak1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  </a>
 
+</div>
 
 💬 *“Great software isn’t just built — it’s carefully crafted, tested, and loved into existence.”*  
 ⭐ If you believe in building with passion, leave a ⭐!
