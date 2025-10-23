@@ -44,21 +44,15 @@
 
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
-<p align="center" style="font-family: 'Poppins', sans-serif; color: #00bfff; font-size: 18px;">
-  <i>💬 Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡</i>
+<p align="center">
+  <i>
+    💬 <span style="color:#58a6ff;">Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡</span>
+  </i>
 </p>
 
-<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 17px; color: #66ccff; animation: pulse 2s infinite;">
-  <b>Let's build something amazing together! 💻</b>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing Animation" />
 </p>
-
-<style>
-@keyframes pulse {
-  0% { opacity: 1; }
-  50% { opacity: 0.5; }
-  100% { opacity: 1; }
-}
-</style>
 
 
 
