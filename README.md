@@ -44,13 +44,13 @@
 
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
-<p align="center">
+<h2 align="center">
   <i>
     💬 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent; font-weight: 600;">
       Feel free to reach out — I love collaborating on innovative projects 🚀 and discussing tech ideas 💡
     </span>
   </i>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing Animation" />
