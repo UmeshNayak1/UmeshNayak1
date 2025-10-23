@@ -37,12 +37,12 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
 </p>
 
-
+---
 
 ### 🚀 Projects
-- 🔹 **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
-- 🔹 **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
-- 🔹 **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
+-  **Real-Time Object Dimension Measurement System** – AI-powered app using React, Flask & OpenCV  
+-  **Matrimonial Website** – Full-stack platform with Node.js, Express.js & SQL  
+-  **Multilingual Voice Assistant** – Interactive web app using React, Flask, and Python  
 
 📎 *Explore more on my portfolio:* [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
