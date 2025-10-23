@@ -14,7 +14,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://umeshnayak1.github.io/my-portfolio/)  
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am funny (at least my compiler thinks so) 😅**
   <br/>
 ---
 <h3 align="left">Connect with me:</h3>
