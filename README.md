@@ -47,9 +47,6 @@
 
 <br/>
 
----
-
-
 📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
 <h3 align="center">
@@ -60,6 +57,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+💻;Open+for+collaboration+and+creative+ideas!+✨" alt="Typing Animation" />
 </p>
+
+
+---
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
