@@ -14,7 +14,6 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://umeshnayak1.github.io/my-portfolio/)  
-- ⚡ Fun fact **I am funny (at least my compiler thinks so) 😅**
   <br/>
 ---
 <h3 align="left">Connect with me:</h3>
@@ -44,8 +43,6 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
 </p>
 
-
-📎 ***Explore more on my portfolio:*** [Portfolio](https://umeshnayak1.github.io/my-portfolio/)
 
 <h3 align="center">
      <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent; font-weight: 600;">
