@@ -67,21 +67,16 @@
 <h4 align="left">GitHub Stats:</h4>
 <div align="left">
 
-  <!-- Main Stats -->
-  <a href="https://github.com/UmeshNayak1">
-    <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="https://github.com/UmeshNayak1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmeshNayak1&theme=tokyonight&hide_border=true" height="170" />
-  </a>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <!-- Top Languages -->
-  <br/>
-  <a href="https://github.com/UmeshNayak1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=UmeshNayak1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 ---
