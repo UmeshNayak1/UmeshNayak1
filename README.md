@@ -70,12 +70,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide=C%2B%2B" />
 </p>
   
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=UmeshNayak1&theme=tokyonight&hide_border=true" />
 </p>
 
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
