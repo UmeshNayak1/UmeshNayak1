@@ -66,12 +66,10 @@
 
 <h4 align="left">GitHub Stats:</h4>
 <div align="left">
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img src="https://streak-stats.demolab.com?user=UmeshNayak1&theme=tokyonight&hide_border=true" />
+<p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&langs_count=1" />  
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true" />
