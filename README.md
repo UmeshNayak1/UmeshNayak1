@@ -67,11 +67,15 @@
 <h4 align="left">GitHub Stats:</h4>
 <div align="left">
 <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&langs_count=1" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide=C%2B%2B" />
+</p>
+  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=UmeshNayak1&theme=tokyonight&hide_border=true" />
 </p>
 
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
