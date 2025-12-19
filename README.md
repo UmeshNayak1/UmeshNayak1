@@ -67,7 +67,7 @@
 <h4 align="left">GitHub Stats:</h4>
 <div align="left">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshNayak1&layout=compact&theme=tokyonight&hide=C%2B%2B" />
+ <img src="https://github-readme-stats.vercel.app/api?username=UmeshNayak1&show_icons=true&hide_rank=true&theme=tokyonight" />
 </p>
   
 <p align="left">
